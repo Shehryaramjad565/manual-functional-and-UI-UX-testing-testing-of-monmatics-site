@@ -1,0 +1,43 @@
+Bug ID,Description/Summary,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority,Screenshot
+monmatics-BUG-1,we add the receipts but dont added into payment section,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on Receipts 6. click on Add Receipts",data should be add in to payment section that we enter in receipts,entered data in receipts is not entered into payment section,Major,P0(high),
+monmatics-BUG-2,Print of Receipe is printed,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on Receipts 6. click on Add Receipts 7. Add all valid data and checkmark on Print 8. Click on save",Print screen should be open and user can print Receipe if want,Screen of print is not opened and get print,Low,P1(medium),
+monmatics-BUG-3,Daily recovery data is not added into Daily recovery list,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on Daily Recovery 6. click on Add daily recovery 7. add all valid data and save",Daily recovery data should be added into daily recovery list,added daily recovery data is not added into daily recovery list,Low,P1(medium),
+monmatics-BUG-4,there is not any total amount and its not editable and showing amount is less then total amount in amount section,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on Received from customer 6.   click on add new transection 7. add all velid data and click on save",there should be price and should be price is editable ,there is not any price and its not edit able and in amount section showing error of amount should be greater then total amount,high,P0(high),
+monmatics-BUG-5,Facing SQL error showing numric value of of range of 1264,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on vendor payment 6.  add now transection   7. add all velid data 8. click on save",form should be submit and store data in list,Facing SQL error showing numric value of of range of 1264,high,P0(high),
+monmatics-BUG-6,there is not any total amount and its not editable and showing amount is less then total amount in amount section,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on Adjestment 6.   click on add new transection 7. add all velid data and click on save",there should be price and should be price is editable ,there is not any price and its not edit able and in amount section showing error of amount should be greater then total amount,high,P0(high),
+monmatics-BUG-7,facing error expection showing read id on null ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on Adjestment 6. click on Expense list 7. click on add expense ",Add now form shoud be show there and user can fill that,facing error expection showing read id on null,high,P0(high),
+monmatics-BUG-8,facing error of foreach argument is must be types of array facing there by click on save button,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on gernal  voucher 6. click on save by adding all required data",form should be submited and data should be show there in list,facing error of foreach argument is must be types of array facing there by click on save button,high,P0(high),
+monmatics-BUG-9,data is submitted and but not added into the list,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on voucher approval",data should be added into the list,data is submitted and but not added into the list,high,P0(high),
+monmatics-BUG-10,facing 404 page not found,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on voucher approval 1",form should be added show there user can add data,facing 404 page not found,high,P0(high),
+monmatics-BUG-11,data is submitted and but not added into the list,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click transaction list",data should be added into the list,data is submitted and but not added into the list,high,P0(high),
+monmatics-BUG-12,facing 404 page not found,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on Rejected Voucher",form should be added show there user can add data,facing 404 page not found,high,P0(high),
+monmatics-BUG-13,edit data in one filed is affected other field also,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on Opening balence 6. from select form account that have more the 2 field  7. click on save",only selected field should be edit ,edit data in one filed is affected other field also,high,P0(high),
+monmatics-BUG-14,more then one currency fields,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop. 4. click on Accounts 5. click on currency",should be only one currency entity,more then one currency fields,medium,P0(high),

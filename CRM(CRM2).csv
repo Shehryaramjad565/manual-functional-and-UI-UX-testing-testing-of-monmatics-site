@@ -1,0 +1,22 @@
+Bug ID,Description/Summary,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority,Screenshot
+monomatics-BUG-13,"facing error of The DELETE method is not supported for this route. Supported methods: GET, HEAD.","1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on CRM 5. click on templates6. click on tasks  7.  click on delete",task should be deleted here ,"facing error of The DELETE method is not supported for this route. Supported methods: GET, HEAD.",high,P2(high),
+monomatics-BUG-14,"facing error of The DELETE method is not supported for this route. Supported methods: GET, HEAD.","1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on CRM 5. click on customer category 6. click on add tasks  7.  click on delete",task should be deleted here ,"facing error of The DELETE method is not supported for this route. Supported methods: GET, HEAD.",high,P2(high),
+monomatics-BUG-15,facing error when click on add new under call and tasks,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on CRM 5. click on lead 6. click on any field 7. click on call or task",there should be edit form not a error,facing error when click on add new under call and tasks,high,P2(high),
+monomatics-BUG-16,reports is not generated ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on CRM 5. click on lead 6. click on any field 7. click on call or task",there should be edit form not a error,facing error when click on add new under call and tasks,high,P2(high),
+monomatics-BUG-17,to much spaces between the field and and error massage,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on CRM 5. click on template 6. click on add ",space should be less,to much spaces between the field and and error massage,low,P0(low),
+monomatics-BUG-18,allignment of list is not same as customer,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on CRM 5. click on template ",allignment should be according to customer,allignment of list is not same as customer,low,P0(low),
+monomatics-BUG-19,there is not conformation massage on delete button,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on CRM 5. click on template ",there should be conformation massage there ,there is not conformation massage on delete button,low,P0(low),

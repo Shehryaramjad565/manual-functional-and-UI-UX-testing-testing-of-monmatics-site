@@ -1,0 +1,38 @@
+Bug ID,Description/Summary,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority,Screenshot
+monomatics-BUG-1,google driver profile button is not working,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on google driver button on right side",this button should work,google driver and profile button is not working,Low,P0(low),
+monomatics-BUG-2,there is no conformation massage before logout,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on power button",reconform the user to logout the user,there is no conformation massage before logout,Low,P0(low),
+monomatics-BUG-3,map and news button are not working,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on power button",map and news button should work,map and news button are not working,Low,P0(low),
+monomatics-BUG-4,try monmatic button is not wording dont redirect user to home or login page,"1. Open the Application URL ""https://www.dev.monmatics.com/"" ",user should go to login or home page,try monmatic button is not wording dont redirect user to home or login page,medium,P2(high),
+monomatics-BUG-5,more then one similer icon like inventory vendor and project,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password",each module should have different icon,more then one similer icon like inventory vendor and project,low,P0(low),
+monomatics-BUG-6,facing error of Base table or view not found when we click on bashboard blog post and category in blog,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password",there should be a dashboard page ,facing error of Base table or view not found when we click on bashboard in blog,high,P2(high),
+monomatics-BUG-7,"facing error of View [cargo_manager.setup] not found.
+when click on cargo manager then setup","1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on cargo manager and then setup",there should be setup page there,"facing error of View [cargo_manager.setup] not found.
+when click on cargo manager then setup",high,P2(high),
+monomatics-BUG-8,saleries are not delected when click on cross sign to delete it,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on HCM and then salaries",it should be delete when we click on cross sign,saleries are not delected when click on cross sign to delete it,medium,P1(medium),
+monomatics-BUG-9,page not found error when click on product detail stock in reports,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on reports and then product detail stock",there should be product detail stock page,page not found error when click on product detail stock in reports,medium,P1(medium),
+monomatics-BUG-10,facing error of BadMethodCallException when click on reports then balence sheet,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on reports and then balenceSheet",there should be balenceSheet page there,facing error of BadMethodCallException when click on reports then balence sheet,medium,P1(medium),
+monomatics-BUG-11,facing error of syntex error when we click on sechedule in project,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on project and then sechedule ",there should be sechedule page,facing error of syntex error when we click on sechedule in project,medium,P1(medium),
+monomatics-BUG-12,facing error of undefined variables when click on purchaseExpenses in purchase,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password 3.click on purchase and purchaseExpenses",there should be purchaseExpenses page,facing error of undefined variables when click on purchaseExpenses in purchase,medium,P1(medium),
+monomatics-BUG-13,icon are not alligned ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password 3.click on purchase and purchaseExpenses list",icon should be alligned ,facing error of undefined variables when click on purchaseExpenses in purchase,medium,P1(medium),
+monomatics-BUG-14,facing error of page not found when we click on profit and loss in reports,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password 3.click on reports and then profit and loss",there should be related page,facing error of page not found when we click on profit and loss in reports,medium,P1(medium),

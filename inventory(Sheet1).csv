@@ -1,0 +1,29 @@
+Bug ID,Description/Summary,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority,Screenshot
+monomatics-BUG-1,no action is perform when we click on product ledget and setting button,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on product 6.   click on add product and save",some action should perform when we click on button ,no action is perform when we click on product ledget and setting button,low,P0(low),
+monomatics-BUG-2,button is sale return its should be some thing add sale return,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on product 6.   click on add product and save",its should be add sale return,button is sale return its should be some thing add sale return,low,P0(low),
+monomatics-BUG-3,field are not editable to enter data rather then Qty Return,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on pruchase return 6.   click on add purchase return",other field should also editable to enter data other then Qty Return,"field are not editable to enter data rather then Qty Return
+",Medium,P1(medium),
+monomatics-BUG-4,list is in add purchase return page ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on pruchase return 6.   click on add purchase return",list should be in home page of purchase return page,list is in add purchase return page ,low,P0(low),
+monomatics-BUG-5,Qty stock field is not editable,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on internal transfer 6.   click on add ",it should be editable field,Qty stock field is not editable,low,P0(low),
+monomatics-BUG-6,facing error of division by zero,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on delovery order 6.   click on add ",form should be submit and show inlist,facing error of division by zero,high,P2(high),done
+monomatics-BUG-7,field are not editable in opening balence,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on opening balence",field should be editable,field are not editable in opening balence,medium,P1(medium),
+monomatics-BUG-8,unit qty stock and rate field is not editable,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on GIN-WIP Return",these field are not editable,unit qty stock and rate field is not editable,medium,P1(medium),
+monomatics-BUG-9,data is not save facing error of colum not found,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on Inventory 5. click on GIN-WIP Return",data should be save there,data is not save facing error of colum not found,high,P2(high),

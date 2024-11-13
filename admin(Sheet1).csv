@@ -1,0 +1,117 @@
+Bug ID,Description/Summary,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority,Screenshot
+monmatics-BUG-2,active and deactive button are seprated from sepreated from center that are not UI friendly,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on 3 lines on left corner in desktop. 4.click on admin 5. click on ongoing mail setting",test in active and deactive should be inline not seperated from center.,text is seperated from center of active and deactive ,Minor,P2(Low),
+monmatics-BUG-3,"two button of ""outgoing mail setting"" are there in admin ","1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on 3 lines on left corner in desktop. 4.click on admin","there should be only single button of ""outgoing mail setting""","there are two button of ""outgoing mail setting"" in admin section",medium,P1(Medium),
+monmatics-BUG-4,data is listed in list and we lost it when we refresh the page.,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin  5. click on currency list  6. add data into the fields and click on submit.",data is added into list but we lost data when we refresh the page,data is added into the list but losted when we represhthe page,Low,P0(high),
+monmatics-BUG-5,reciving that notifiction that we cannot open it,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password 3. click on bell icon on notification.  4. click on notification like new member join",we should not recieve the notification that we dont have access ,revieve that notification that we dont have access,Minor,P1(Medium),
+monomatics-BUG-6,"form in admin in user list accept simple password like ""12345""","1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on User 6. click on Add new User 7. add add the details withpassword ""12345""",form should accepts solid password like mix of numric uper and lower case alphabet and simble,"form is accepting simple password like ""12345""",Major,P0(High),
+monomatics-BUG-7,form in admin in  is accepting less then 8 character password ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on User 6. click on Add new User 7. add add the details with password ""12345""",form shoud not accepts password giving error of password of password should be greater the 8 character.,accepts less then 8 character  password,Major,P1(Medium),
+monomatics-BUG--8,there are 5 User button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single User button,there are 5 User button are there,Medium,P1(Medium),
+monomatics-BUG-9,there are 5 Apps button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Apps button,there are 5 Apps button are there,medium,P1(Medium),
+monomatics-BUG-10,there are 5 Taxes button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single taxes button,there are 5 taxes button are there,medium,P1(Medium),
+monomatics-BUG-11,there are 5 Role Management button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Role Management button,there are 5 Role management button are there,medium,P1(Medium),
+monomatics-BUG-12,there are 5 Discounts button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Discounts button,there are 5 Discounts button are there,medium,P1(Medium),
+monomatics-BUG-13,there are 5 Departments button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Departments button,there are 5 Departments button are there,medium,P1(Medium),
+monomatics-BUG-14,there are 5 Form options button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Form options button,there are 5 Forms Options button are there,medium,P1(Medium),
+monomatics-BUG-16,there are 5 Terms & conditions button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single terms & conditions button,there are 5 Terms & conditions button are there,medium,P1(Medium),
+monomatics-BUG-17,there are 5 Warehouse button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Warehouse button,there are 5 Warehouse button are there,medium,P1(Medium),
+monomatics-BUG-18,there are 5 Branches button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Branches button,there are 5 Branches button are there,medium,P1(Medium),
+monomatics-BUG-19,there are 5 Company button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Company button,there are 5 Company button are there,medium,P1(Medium),
+monomatics-BUG-20,there are 5 CRM templates button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single CRM templates button,there are 5 CRM Templates button are there,medium,P1(Medium),
+monomatics-BUG-22,there are 5 Route Management button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Route Management button,there are 5 Route Management button are there,medium,P1(Medium),
+monomatics-BUG-24,there are 5 Currencies button under admin,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin",there should be single Currencies button,there are 5 Currencies button are there,medium,P1(Medium),
+monomatics-BUG-26,form is sumitted and data is added into list but there is no conformantion massage that show user data is added in to  list ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on ongoing  mail setting",there should conformation massage that tell user form is sumitted and data is added successful ,form is sumitted and data is added into list but there is no conformantion massage that show user data is added in to  list ,Low,P2(Low),
+monomatics-BUG-27,port field accepted alphabet value like abc ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on ongoing  mail setting",port field should accecpt only numric value,port field accepted alphabet value like abc ,Low,P2(Low),
+monomatics-BUG-28,form accecpting simple password like 12345,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on ontgoing  mail setting",its should be strong password like mix of alphabet numeric simbles,form accecpting simple password like 12345,Low,P1(medium),
+monomatics-BUG-29,search field is not wording,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click Route Management",search field should be wording like when we search leads there is leads field is selected and there,search field is not wording,Low,P0(Low),
+monomatics-BUG-30,search field is not wording,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click Route Management",search field should be wording like when we search leads there is leads field is selected and there,search field is not wording,Low,P0(Low),
+monomatics-BUG-31,there is no message of actiave and deactive message when user click on activate deactivate button ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click incoming mail setting",there should be a message that tell user there its activated or deactivated ,there is no message of actiave and deactive message when user click on activate deactivate button,Low,P0(Low),
+monomatics-BUG-32,port field is accepting alphabet ,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click incoming mail setting",it should only accecpt intiger value ,port field is accepting alphabet ,Low,P0(Low),
+monomatics-BUG-33,new added data is added into the end of list,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on form options",new added data should be on top of list,Retrieving data. Wait a few seconds and try to cut or copy again.,Low,P0(Low),
+monomatics-BUG-34,phone number field is accecpting alphabet data,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on company",phone number field should only accecpt numeric data ,phone number field is accecpting alphabet data,Low,P0(Low),
+monomatics-BUG-35,spaces in phone field should not be allowed,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on Warehouse",spaces should be allowed here,spaces in phone field should not be allowed,Low,P0(Low),
+monomatics-BUG-36,vedio is add but unable to play it,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on Crm template",vedio should be play or there should not any button to add vedio if not needed,vedio is add but unable to play it,Low,P0(Low),
+monomatics-BUG-37,purchase order and test module are selected form app but not in sub-mobule of purchase,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on app 6. click on purchase",if button are in apps it should be in sub mobules of purchase,purchase order and test module are selected form app but not in sub-mobule of purchase,Low,P1(medium),
+monomatics-BUG-38,module is created and not added into sub-modules of purchase,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on app 6. click on purchase",module should be added into sub-modules of purchases,module is created and not added into sub-modules of purchase,Low,P1(medium),
+monomatics-BUG-40,new added module is not listed in site modules,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on app ",module should be added into sub-modules of sales,module is created and not added into sub-modules of sales,Low,P1(medium),
+monomatics-BUG-41,there is not HCM-delete  button in site but it in app,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on app 6. click on HCM-delete",added module should be in site modules,there is not HCM-delete  button in site but it in app,Low,P1(medium),
+monomatics-BUG-42,there is not Dashoard button in site but it is in app,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on app 6. click on Dashboard",Dashboard  should be in site module,there is not Dashoard button in site but it is in app,Low,P1(medium),
+monomatics-BUG-43,there is not Production button in site but it is in app,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on app 6. click on Production",Production should be in site module,there is not Production button in site but it is in app,Low,P1(medium),
+monomatics-BUG-44,there is not sales FMCG button in site but it is in app,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on app 6. click on sales FMCG ",sales FMCG buttton should be in site module,there is not sales FMCG button in site but it is in app,Low,P1(medium),
+monomatics-BUG-45,there is not bussiness in telligence button in site but it is in app,"1. Open the Application URL ""https://www.dev.monmatics.com/"" 
+2. Login with valid email and password
+3. click on lines on left corner in desktop.  4.click on admin 5. click on app 6. click on bussiness intelligence",bussiness intelligence  buttton should be in site module,there is not bussiness intelligence button in site but it is in app,Low,P1(medium),
